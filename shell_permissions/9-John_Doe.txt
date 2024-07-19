@@ -1,2 +1,4 @@
 #!/bin/bash
-chmod 753 hello
+
+# Change the permissions of the file 'hello' to -rwxr-x-wx
+chmod 751 hello
